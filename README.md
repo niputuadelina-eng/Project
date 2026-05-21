@@ -66,7 +66,7 @@ hasil_validitas <- data.frame(
 hasil_validitas
 ```
 ### 4. Uji Reliabilitas
-Pada tahap ini dilakukan uji reliabilitas untuk mengetahui tingkat konsistensi item-item pernyataan pada kuesioner. Uji reliabilitas digunakan untuk memastikan bahwa instrumen penelitian memberikan hasil yang stabil dan konsisten ketika digunakan dalam pengukuran. Dalam penelitian ini, uji reliabilitas dilakukan menggunakan metode Cronbach Alpha. Semakin tinggi nilai Cronbach Alpha, maka semakin baik tingkat reliabilitas instrumen penelitian. Pengujian dilakukan pada data dengan 29 responden dan 44 responden untuk membandingkan tingkat reliabilitas sebelum dan sesudah penambahan jumlah sampel.
+Pada tahap ini dilakukan uji reliabilitas untuk mengetahui tingkat konsistensi item-item pernyataan pada kuesioner. Dalam penelitian ini, uji reliabilitas dilakukan menggunakan metode Cronbach Alpha. Semakin tinggi nilai Cronbach Alpha, maka semakin baik tingkat reliabilitas instrumen penelitian. Pengujian dilakukan pada data dengan 29 responden dan 44 responden untuk membandingkan tingkat reliabilitas sebelum dan sesudah penambahan jumlah sampel.
 
 Tahapan ini digunakan untuk menghitung nilai Cronbach Alpha pada masing-masing data.
 ```r
@@ -120,7 +120,7 @@ Tabel Validitas
 | P9 | 0.59 | 0.297| Valid |
 | P10 | 0.84 | 0.297| Valid |
 
-Berdasarkan hasil uji validitas menggunakan korelasi Perason, terhadap 10 item peryataan dengan jumlah responden sebanyak 44 orang, diperoleh nilai r hitung seluruh item lebih besar dari r tabel (0.297). Hal tersebut menunjukkan bahwa seluruh item pernyataan pada kuesioner dinyatakan valid. 
+Berdasarkan hasil uji validitas menggunakan korelasi Perason, terhadap 10 item peryataan dengan jumlah responden sebanyak 44 orang, diperoleh nilai r hitung seluruh item lebih besar dari r tabel (0,297). Hal tersebut menunjukkan bahwa seluruh item pernyataan pada kuesioner dinyatakan valid. 
 
 Tabel Hasil Perbandingan
 | Item | r Hitung (29 Responden) | r Hitung (44 Responden) | Keterangan |
@@ -149,8 +149,8 @@ Berdasarkan hasil uji reliabilitas diperoleh nilai Cronbach’s Alpha sebesar 0,
 Tabel Perbandingan
 | Sampel | Cronbach Alpha | Keterangan |
 |---|---|---|
-| 29 Responden | 0.84 | Reliabel |
-| 44 Responden | 0.81 | Reliabel |
+| 29 Responden | 0.88 | Reliabel |
+| 44 Responden | 0.84 | Reliabel |
 
 Berdasarkan hasil uji reliabilitas menggunakan metode Cronbach Alpha, pada data 29 responden dan data 44 responden. Kedua nilai Cronbach Alpha berada di atas 0,60 sehingga instrumen penelitian dinyatakan reliabel. Hasil ini menunjukkan bahwa item-item pada kuesioner memiliki tingkat konsistensi yang baik dalam mengukur variabel penelitian. Meskipun nilai Cronbach Alpha pada 44 responden sedikit menurun dibandingkan 29 responden, nilai yang diperoleh masih berada pada kategori reliabel sehingga kuesioner tetap layak digunakan dalam penelitian.
 
