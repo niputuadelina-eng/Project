@@ -1,4 +1,4 @@
-# Project
+# Analisis Tingkat Kepuasaan Mahiswa Terhadap Kondisi Lingkungan Kampus di FMIPA Universitas Mataram
 ## Latar Belakang
 Aktivitas akademik merupakan bagian penting dalam kehidupan mahasiswa di perguruan tinggi. Lingkungan kampus yang kondusif, nyaman, aman, dan bersih dapat membantu mahasiswa menjalankan aktivitas akademik dengan lebih efektif sehingga meningkatkan kepuasan mahasiswa terhadap lingkungan kampus. Kepuasan mahasiswa merupakan perasaan puas yang diperoleh setelah membandingkan harapan dengan kenyataan dari pelayanan yang diterima. Tingkat kepuasan tersebut dipengaruhi oleh beberapa aspek lingkungan kampus, seperti kebersihan, fasilitas tempat duduk, area parkir, keamanan, pencahayaan, dan kenyamanan suasana belajar. Kondisi lingkungan kampus yang baik dapat menciptakan suasana belajar yang lebih kondusif sehingga meningkatkan kepuasan mahasiswa. Oleh karena itu, penelitian ini dilakukan untuk mengetahui tingkat kepuasan mahasiswa terhadap kondisi lingkungan kampus berdasarkan hasil survei online yang dilakukan kepada mahasiswa.
 ## Tujuan
